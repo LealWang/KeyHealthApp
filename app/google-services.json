@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "298266295910",
+    "firebase_url": "https://keyhealth-f384f.firebaseio.com",
+    "project_id": "keyhealth-f384f",
+    "storage_bucket": "keyhealth-f384f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298266295910:android:aff2e222b96301af",
+        "android_client_info": {
+          "package_name": "elec5620.sydney.edu.au.keyhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298266295910-brrlt8epk3a11luvd6fs1asd81ifs591.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSssysh3n4zxsVYKvL5sPxrCkUhw3SWEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
